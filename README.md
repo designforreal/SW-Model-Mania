@@ -1,1 +1,1 @@
-# SW-Model-Mania
+SolidWorks model mania solutions and simulations
